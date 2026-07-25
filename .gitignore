@@ -1,0 +1,8 @@
+# OS / file-manager junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+
+# Claude Code local config (not part of the project)
+.claude/
