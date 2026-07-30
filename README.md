@@ -20,7 +20,7 @@ This is the photo journal of that build.
 |---|---|---|
 | **Role** | The bike being restored | Parts donor |
 | **Owned since** | 2004 — 20+ years | Bought for this project |
-| **Distance run** | 60,000+ km | ~12,000 km |
+| **Distance run** | 100,000+ km | ~12,000 km |
 | **Cost** | Our family bike | **₹3,000** |
 | **Condition** | Rusty, cracked panels, burnt coil | Good mechanicals, worth stripping |
 
