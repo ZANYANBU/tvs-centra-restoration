@@ -1,6 +1,6 @@
 # 🏍️ TVS Centra Restoration — Bringing Dad's Bike Back to Life
 
-> Reviving the **TVS Centra** that carried my father for **20+ years and 60,000+ km**, using good parts from a **₹3,000 junkyard donor bike** — plus an LED headlight and a full AC→DC electrical conversion. A father-and-son project, done at home, in our spare time.
+> Reviving the **TVS Centra** that carried my father for **20+ years and 100,000+ km**, using good parts from a **₹3,000 junkyard donor bike** — plus an LED headlight and a full AC→DC electrical conversion. A father-and-son project, done at home, in our spare time.
 
 ![Restored TVS Centra at night](photos/13-restored-and-running/02-restored-black-tvs-centra-night-hero-shot-IMG_E6488.jpg)
 
@@ -8,7 +8,7 @@
 
 ## The story
 
-My father bought this TVS Centra back in **2004**. It carried him for more than **twenty years and over 60,000 km**. In its last couple of years the plastic **side panels cracked**, the **starter coil burnt out**, and the bike ended up **standing unused for over a year**, quietly gathering rust in the corner.
+My father bought this TVS Centra back in **2004**. It carried him for more than **twenty years and over 100,000 km**. In its last couple of years the plastic **side panels cracked**, the **starter coil burnt out**, and the bike ended up **standing unused for over a year**, quietly gathering rust in the corner.
 
 I didn't want it to end there — so I decided to bring it back.
 
