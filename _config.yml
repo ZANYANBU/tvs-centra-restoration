@@ -1,0 +1,8 @@
+# Settings for the GitHub Pages site: https://zanyanbu.github.io/tvs-centra-restoration/
+title: TVS Centra Restoration
+description: Bringing my father's 2004 TVS Centra back to life with parts from a junkyard donor bike
+theme: jekyll-theme-cayman
+show_downloads: false
+# The full-resolution camera files stay in the repository but are not copied to the site.
+exclude:
+  - originals

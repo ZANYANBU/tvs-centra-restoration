@@ -179,13 +179,13 @@ Every photo is sorted by stage of the build. Open a folder to browse it, or see 
 
 | Stage | Photos | | Stage | Photos |
 |---|--:|---|---|--:|
-| [Before the rescue](photos/01-before-the-rescue) | 7 | | [Silencer & exhaust](photos/09-silencer-exhaust) | 2 |
-| [Junkyard donor bike](photos/02-donor-junkyard-bike) | 1 | | [Electrical & DC conversion](photos/10-electrical-dc-conversion) | 19 |
-| [Teardown & restoration](photos/03-teardown-and-restoration) | 19 | | [LED headlight](photos/11-led-headlight) | 1 |
-| [The preserved engine](photos/04-engine-preserved) | 4 | | [Parts, laid out](photos/12-parts-catalogue) | 8 |
-| [Starter coil & magneto](photos/05-starter-coil) | 1 | | [Restored & running](photos/13-restored-and-running) | 2 |
-| [Speedometer & dash](photos/06-speedometer-dash) | 1 | | | |
-| [Center stand](photos/07-center-stand) | 2 | | | |
+| [Before the rescue](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/01-before-the-rescue) | 7 | | [Silencer & exhaust](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/09-silencer-exhaust) | 2 |
+| [Junkyard donor bike](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/02-donor-junkyard-bike) | 1 | | [Electrical & DC conversion](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/10-electrical-dc-conversion) | 19 |
+| [Teardown & restoration](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/03-teardown-and-restoration) | 19 | | [LED headlight](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/11-led-headlight) | 1 |
+| [The preserved engine](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/04-engine-preserved) | 4 | | [Parts, laid out](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/12-parts-catalogue) | 8 |
+| [Starter coil & magneto](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/05-starter-coil) | 1 | | [Restored & running](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/13-restored-and-running) | 2 |
+| [Speedometer & dash](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/06-speedometer-dash) | 1 | | | |
+| [Center stand](https://github.com/ZANYANBU/tvs-centra-restoration/tree/main/photos/07-center-stand) | 2 | | | |
 
 ---
 
