@@ -189,6 +189,30 @@ Every photo is sorted by stage of the build. Open a folder to browse it, or see 
 
 ---
 
+## 🔢 Parts reference
+
+Part numbers for the things we worked on, looked up in TVS's own parts catalogue for the Centra (dated 17.08.2011). Handy if you are hunting for the same parts.
+
+| What we worked on | Catalogue name | Fig. | Part no. |
+|---|---|---|---|
+| The burnt coil behind the magneto cover | Stator assy. | 05 | N5060210 |
+| Flywheel | Rotor comp. / Magneto assy. | 05 | N5060200 / N8060020 |
+| Ignition coil | Ignition coil | 05 | N5060250 |
+| Spark plug | Spark plug NGK (CR7E) | 01 | M1180030 |
+| Silencer | Muffler comp. | 06 | N5050110 |
+| Carburettor | Carburettor assy. | 07 | N8040220 |
+| Centre stand | Center stand comp. | 15 | N5120160 |
+| Headlamp (the original, before the LED) | Head lamp assy. | 18 | N5160010 |
+| Speedometer | Speedo meter assy. | 20 | N5150180 |
+| Regulator | Regulator DC | 22 | N3060120 |
+| Ignition unit | Digital 4 curve CDI AC | 22 | N5060230 |
+| Battery | Battery assy. 12V-2.5 | 22 | N3060060 |
+| Throttle and clutch cables | Cable assy. throttle / clutch | 17 | N5170040 / N5170030 |
+| Chain and sprockets (14T engine, 41T rear) | Chain & sprocket kit | 11 | N5320360 |
+| Cam chain | Cam chain 90 links | 02 | N2010920 |
+
+Tyres are 2.75" x 18" front and rear on 1.6" x 18" rims. Check a number with a TVS dealer before ordering, since parts get superseded.
+
 ## About the bike
 
 The **TVS Centra** is a 100cc, four-stroke commuter motorcycle from TVS Motor Company, launched around 2004 (it later became the TVS Star). Simple, economical, and built to run for decades — which is exactly what ours did.
